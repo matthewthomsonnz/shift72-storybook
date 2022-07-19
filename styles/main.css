@@ -18205,7 +18205,7 @@ s72-cant-be-watched.s72-show {
   font-family: "fa-s72";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/fa-s72.woff") format("woff");
+  src: url("fonts/fa-s72.woff") format("woff");
 }
 .fa, .meta-awards-icon-overlay .meta-award-nomination-icon, .meta-awards .meta-award-nomination-icon, s72-availability-label .availability-state::before, s72-availability-label s72-plan-label .s72-plan-owned::before, s72-plan-label s72-availability-label .s72-plan-owned::before, .icon-search, .s72-icon-search, .icon-warning, .s72-icon-warning, .icon-errored, .s72-icon-errored, .icon-loading, .s72-icon-loading, .s72-icon {
   font-family: "fa-s72" !important;

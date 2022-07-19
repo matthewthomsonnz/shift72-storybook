@@ -268,51 +268,7 @@
 
   
     <url>
-      <loc>https://staging-store.shift72.com/film/graham-shakapacka/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-breaking-bad-movie-2/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/limited72/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/mad-max-fury-road/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/test-ken-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/bob/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/marks-ingestion-5-1-audio/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/newwww/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/short-audio-stream/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/automated-pin-locked-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/what-we-do-in-the-shadows-bro/</loc>
+      <loc>https://staging-store.shift72.com/film/hls2-cc-ads/</loc>
     </url>
   
     <url>
@@ -320,507 +276,15 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/32-aa/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/spring/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/streamer-boy/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/multiple-audio-track-bonanza/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/tomb-raider/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/jasontest/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-mp4box-forensic-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-navigator-a-medieval-odyssey/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/jono/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_film7/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/smilf/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_film-2-0/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/subtitle-alignment-test-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/sweeney-todd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/afm/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/spoods/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/cast-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/film-dupe-name/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/aliens/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/a-minimal-phil/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v2-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-clone/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/exotest-no-pssh-sd-hd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box-forensic-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-breaking-bad-movie/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/dummy-engagement_1/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-test-studio-level-2/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/marley-and-me/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-nopreroll-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/new-filmz/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/hls2-cc-ads/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/mkvagain/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/raya-and-the-last-dragon/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/nov30-2017/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/sweeney/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/avengers-age-of-ultron/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/mkv-testing/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/dash-test-akamai1/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-clone-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/an-upload-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/j-test-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/sch/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/simon-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-fat-boy-chronicles/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/ttest/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/lous-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/deadpool-presale/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/4k-film-markdown/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/diary-of-preston-plummer/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v3-with-config-non-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/1-fast-1-furious/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/bohemian-rhapsody/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/distribution/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/pre-roll-testing/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/downmix-only/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/new-api/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-shakapackager/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/hls-yo-cc-noads-subtitles/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/soping/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/amor-fati-file-ok-no-subs-info-ok/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/space-jam-into-the-spider-verse/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/jack-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-clone/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-matrix-4/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/exotest-pssh-sd-only/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-7/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/noaudioagain/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/azuo-ye-nokonsa/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/baby-driver/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/pumpkin/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/tears-of-steel-multi-audio/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/aotearoa/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/godzilla-vs-kong/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_v2film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/in-admin-entering-fields-on-the-site-length-of-name-password-etcin-admin-entering-fields-on-the-s/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/labelled-multistream/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-2/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/test-bonus/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/digestion-subs/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v2-non-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/alternate-audio-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage-forensic-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/automated/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/short-video-stream/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-v3-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-mp4box-clone/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/app-mat-testing/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/exotest-pssh-sd-hd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/aliens-example/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-forensic-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-mp4box-repackage/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-mp4box-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-navigator-grahams-test-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/4-hours-of-steeeeel/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-fat-boy-chronicles-bro/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v3-without-config-non-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/july2017/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/no-drm/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/jack-test-4/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-multiple-audio-v3-with-config-non-forensic/</loc>
-    </url>
-  
-    <url>
       <loc>https://staging-store.shift72.com/film/0-fast-0-furious-ma/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/sept2017/</loc>
+      <loc>https://staging-store.shift72.com/film/black-widow/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-clone-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-forensic-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/new-ingest-2020-9-7/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/nobody/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/32aa/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/reversetesting/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/gems-update/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/images/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_film-v/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box-forensic/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/fatherhood/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/automated-pin-locked-on-bonus/</loc>
+      <loc>https://staging-store.shift72.com/film/the-fat-boy-chronicles/</loc>
     </url>
   
     <url>
@@ -832,15 +296,7 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box-sd/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/sam-uploader-test/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box-sd/</loc>
+      <loc>https://staging-store.shift72.com/film/reversetesting/</loc>
     </url>
   
     <url>
@@ -848,119 +304,15 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-forensic-sd/</loc>
+      <loc>https://staging-store.shift72.com/film/1-wrinkle-in-time/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/oct2019/</loc>
+      <loc>https://staging-store.shift72.com/film/newwww/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/farming/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/whatever/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/jumanji-welcome-to-the-jungle/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/fresh-prince/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/big-buck-bunny/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/crimson-peke/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/dr-no/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/pentest/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/exotest-no-pssh-sd-only/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/pipi-ma/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/fresh-prince-of-bel-air/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/joenoe-teste-filme/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/new-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/iap123/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/navigator-clone/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-mp4box/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/saeaarssg-e-fsrouctokzs-mu-yao/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/black-widow/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_storefilm-iii/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/jack-test-3/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-1/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_sub-film/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/the-jungle-book/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-clone/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/4k-example/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box-forensic-sd/</loc>
+      <loc>https://staging-store.shift72.com/film/4k-film-markdown/</loc>
     </url>
   
     <url>
@@ -968,59 +320,35 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-mp4box-sd/</loc>
+      <loc>https://staging-store.shift72.com/film/sam-uploader-test/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-sd/</loc>
+      <loc>https://staging-store.shift72.com/film/oct2019/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/example-film/</loc>
+      <loc>https://staging-store.shift72.com/film/drm-shakapackager/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/a-minimal-film-with-ads/</loc>
+      <loc>https://staging-store.shift72.com/film/sept2017/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-6/</loc>
+      <loc>https://staging-store.shift72.com/film/new-film/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/battletruck/</loc>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-forensic/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/ghostbusters/</loc>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-nopreroll-sd/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/king-lee/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/what-we-do-in-the-shadows/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/grabbers/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/1-wrinkle-in-time/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/rpm_store-film-6/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/film-2/</loc>
-    </url>
-  
-    <url>
-      <loc>https://staging-store.shift72.com/film/bad-boys-for-life/</loc>
+      <loc>https://staging-store.shift72.com/film/j-test-film/</loc>
     </url>
   
     <url>
@@ -1028,11 +356,163 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/deadpool-presale-this-should-not-be-on-local/</loc>
+      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-v3-forensic/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-clone-sd/</loc>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-mp4box-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/raya-and-the-last-dragon/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/bob/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/noaudioagain/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/grabbers/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-mp4box-clone/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/diary-of-preston-plummer/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/jack-test/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/test-ken-test/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_film-v/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/pre-roll-testing/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/aliens/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/azuo-ye-nokonsa/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/exotest-pssh-sd-hd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/pipi-ma/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/joenoe-teste-filme/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/dummy-engagement_1/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/bad-boys-for-life/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/dr-no/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v2-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/tears-of-steel-multi-audio/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-clone-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/ghostbusters/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/short-video-stream/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/jumanji-welcome-to-the-jungle/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/simon-test/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/godzilla-vs-kong/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-2/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/bohemian-rhapsody/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/crimson-peke/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/32-aa/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_sub-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/test-bonus/</loc>
     </url>
   
     <url>
@@ -1040,7 +520,135 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/foresic/</loc>
+      <loc>https://staging-store.shift72.com/film/the-jungle-book/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-clone/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/4k-example/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/nov30-2017/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/32aa/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/farming/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/4-hours-of-steeeeel/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/sch/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-1/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-6/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/aliens-example/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/digestion-subs/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/the-matrix-4/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/limited72/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/app-mat-testing/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/what-we-do-in-the-shadows-bro/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/graham-shakapacka/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/the-breaking-bad-movie-2/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/avengers-age-of-ultron/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/4k-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/fatherhood/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/ttest/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/amor-fati-file-ok-no-subs-info-ok/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v3-with-config-non-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-mp4box-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/streamer-boy/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_film7/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/distribution/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/multiple-audio-track-bonanza/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/nobody/</loc>
     </url>
   
     <url>
@@ -1048,15 +656,407 @@
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/rpm_film-the-4th/</loc>
-    </url>
-  
-    <url>
       <loc>https://staging-store.shift72.com/film/star-wars-episode-viii-the-last-jedi/</loc>
     </url>
   
     <url>
-      <loc>https://staging-store.shift72.com/film/4k-film/</loc>
+      <loc>https://staging-store.shift72.com/film/labelled-multistream/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/a-minimal-film-with-ads/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/big-buck-bunny/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/film-dupe-name/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-mp4box/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-mp4box-repackage/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/exotest-no-pssh-sd-only/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/jack-test-3/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/example-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/1-fast-1-furious/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/jasontest/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/marks-ingestion-5-1-audio/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/alternate-audio-test/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/exotest-no-pssh-sd-hd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-mp4box-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-clone-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/navigator-clone/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-clone/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/spoods/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/spring/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/new-api/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/soping/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/battletruck/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/new-filmz/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/what-we-do-in-the-shadows/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/pumpkin/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/baby-driver/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/the-navigator-a-medieval-odyssey/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/jack-test-4/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/film-2/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/mkvagain/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/july2017/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v2-non-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/space-jam-into-the-spider-verse/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager-clone/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/automated-pin-locked-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-clone-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_storefilm-iii/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/sweeney/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_film-the-4th/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/deadpool-presale-this-should-not-be-on-local/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/deadpool-presale/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/the-breaking-bad-movie/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/smilf/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/subtitle-alignment-test-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/downmix-only/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/the-navigator-grahams-test-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/afm/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/foresic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/whatever/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_film-2-0/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/automated-pin-locked-on-bonus/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/marks-ingestion-test-7/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_store-film-6/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-test-studio-level-2/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/fresh-prince/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/hls-yo-cc-noads-subtitles/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/jono/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/saeaarssg-e-fsrouctokzs-mu-yao/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/tomb-raider/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/a-minimal-phil/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-single-track-v3-without-config-non-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/gems-update/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/in-admin-entering-fields-on-the-site-length-of-name-password-etcin-admin-entering-fields-on-the-s/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/cast-test/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-shakapackager-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm_v2film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/mad-max-fury-road/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/images/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/king-lee/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/mkv-testing/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/marley-and-me/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakarepackage/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/the-fat-boy-chronicles-bro/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio2-shakapackager/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/fresh-prince-of-bel-air/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/short-audio-stream/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/iap123/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/im-1-23-0-ken-3-5-2-multiple-audio-v3-with-config-non-forensic/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/aotearoa/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-studio1-mp4box-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/exotest-pssh-sd-only/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/pentest/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/dash-test-akamai1/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-mp4box-forensic-sd/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/an-upload-test/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/new-ingest-2020-9-7/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/no-drm/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/drm-example-film-standard-shakapackager/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/lous-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/rpm-film/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/automated/</loc>
+    </url>
+  
+    <url>
+      <loc>https://staging-store.shift72.com/film/sweeney-todd/</loc>
     </url>
   
 
